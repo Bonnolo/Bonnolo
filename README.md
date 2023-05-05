@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fabio alberto bonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio alberto bonetti" height="30" width="40" /></a>
-<a href="https://fb.com/fabio bonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fabio bonetti" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tex.bonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fabio bonetti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
