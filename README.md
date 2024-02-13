@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bonnolo](https://github.com/Bonnolo)
 
-- 📫 How to reach me **fbonetti00@gmail.com**
+- 📫 How to reach me **dev@fabiobonetti.com**
 
 - ⚡ Fun fact **I also do motorcycle.**
 
